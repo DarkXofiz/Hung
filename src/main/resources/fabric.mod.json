@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "hung",
+  "version": "${version}",
+  "name": "Hung",
+  "description": "Elytra + havai fisek ile oyuncuya vururken otomatik kilic slot degisimi.",
+  "authors": ["hung"],
+  "icon": "assets/hung/icon.png",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.hung.HungMod"]
+  },
+  "mixins": ["hung.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.20.1 <=1.21.4",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

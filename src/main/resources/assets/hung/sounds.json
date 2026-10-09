@@ -1,0 +1,74 @@
+{
+  "s1_on": {
+    "sounds": [
+      "hung:s1_on"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s1_off": {
+    "sounds": [
+      "hung:s1_off"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s2_on": {
+    "sounds": [
+      "hung:s2_on"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s2_off": {
+    "sounds": [
+      "hung:s2_off"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s3_on": {
+    "sounds": [
+      "hung:s3_on"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s3_off": {
+    "sounds": [
+      "hung:s3_off"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s4_on": {
+    "sounds": [
+      "hung:s4_on"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s4_off": {
+    "sounds": [
+      "hung:s4_off"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s5_on": {
+    "sounds": [
+      "hung:s5_on"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s5_off": {
+    "sounds": [
+      "hung:s5_off"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s6_on": {
+    "sounds": [
+      "hung:s6_on"
+    ],
+    "subtitle": "hung toggle"
+  },
+  "s6_off": {
+    "sounds": [
+      "hung:s6_off"
+    ],
+    "subtitle": "hung toggle"
+  }
+}
